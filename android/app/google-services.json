@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "861929960081",
+    "firebase_url": "https://selfmanagementapp-63997-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "selfmanagementapp-63997",
+    "storage_bucket": "selfmanagementapp-63997.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861929960081:android:47dd843116dbd5bc450530",
+        "android_client_info": {
+          "package_name": "com.example.self_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdUML-GJsEkN6blPD4WJF4mpnyU8nceXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
