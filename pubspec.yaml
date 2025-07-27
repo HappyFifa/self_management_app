@@ -13,6 +13,9 @@ dependencies:
   # State Management
   provider: ^6.1.2
 
+  # Database
+  shared_preferences: ^2.2.2
+
   # Notifications & Timezone
   flutter_local_notifications: ^17.1.2
   timezone: ^0.9.3

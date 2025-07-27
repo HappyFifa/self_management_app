@@ -19,6 +19,9 @@ void main() {
     // Build our app and trigger a frame.
     await tester.pumpWidget(const SelfManagementApp());
 
+    // Wait for database initialization
+    await tester.pumpAndSettle();
+
     // Verify that the app loads properly
     expect(find.byType(MaterialApp), findsOneWidget);
   });
